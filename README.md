@@ -20,13 +20,17 @@ This MATLAB project calculates the global stiffness matrix for a given truss str
 
 git clone https://github.com/Raiden40/2Dtruss-simulator-matlab.git
 
+## Usage!!
+
+### Run TrussCalculations.m
+
 
 ## Sample Output
 After running the script, MATLAB will display the computed stiffness matrices.
 ![OUTPUT](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Truss%20Generated%20from%20Matlab.jpg)
-![OUTPUT1]([https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Truss%20Generated%20from%20Matlab.jpg](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Sample%20Calculations.jpg))
-![OUTPUT]([https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Truss%20Generated%20from%20Matlab.jpg](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Ansys%20Deformation.jpg))
-![OUTPUT]([https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Truss%20Generated%20from%20Matlab.jpg](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Ansys%20force%20calculation.jpg))
+![OUTPUT](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Sample%20Calculations.jpg)
+![OUTPUT](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Ansys%20Deformation.jpg)
+![OUTPUT](https://github.com/Raiden40/2Dtruss-simulator-matlab/blob/main/Photos/Ansys%20force%20calculation.jpg)
 
 
 ## License
